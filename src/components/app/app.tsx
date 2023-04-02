@@ -1,8 +1,9 @@
 import React from "react";
-import MainPage from "../../pages/main/main-page";
+import Main from "../../pages/main/main";
+
 
 function App(): JSX.Element {
-  return <MainPage />;
+  return <Main />;
 }
 
 export default App;
