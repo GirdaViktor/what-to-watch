@@ -1,12 +1,12 @@
 # Директория с вёрсткой (markup)
 
 * `index.html` - контейнер;
-* `main.html` - страница «Main» (Главная страница);
-* `my-list.html` — страница «MyList» (Список фильмов «К просмотру»);
+* `main.html` - страница «MainPage» (Главная страница);
+* `my-list.html` — страница «MyListPage» (Список фильмов «К просмотру»);
 * `sign-in.html` - страница «Sign In» (Авторизация):
    * `sign-in-message.html` - с выводом сообщения;
    * `sign-in-error.html` — с выводом ошибки;
-* `player.html` — страница «Player» (Страница просмотра фильма):
+* `player.html` — страница «PlayerComponent» (Страница просмотра фильма):
    * `player-pause.html` — с остановкой видео;
 * `movie-page.html` — страница «Film» (Страница c описанием фильма):
    * `movie-page-reviews.html` — с отзывами;
