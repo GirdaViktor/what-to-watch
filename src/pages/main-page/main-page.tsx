@@ -2,7 +2,7 @@ import React from 'react';
 import FilmCard from "../../components/film/film-card/film-card";
 import PageContent from "../../components/page-content/page-content";
 
-const Main = () : JSX.Element => {
+const MainPage = () : JSX.Element => {
   return (
     <>
       <FilmCard/>
@@ -12,4 +12,4 @@ const Main = () : JSX.Element => {
   );
 };
 
-export default Main;
+export default MainPage;

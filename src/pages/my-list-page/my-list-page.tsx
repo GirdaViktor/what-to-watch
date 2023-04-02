@@ -3,7 +3,7 @@ import Footer from "../../components/footer/footer";
 import CatalogMyList from "../../components/catalog/catalog-my-list";
 import HeaderMyList from "../../components/header/header-my-list/header-my-list";
 
-const MyList = () : JSX.Element=> {
+const MyListPage = () : JSX.Element=> {
   return (
     <div className="user-page">
       <HeaderMyList/>
@@ -15,4 +15,4 @@ const MyList = () : JSX.Element=> {
   );
 };
 
-export default MyList;
+export default MyListPage;
